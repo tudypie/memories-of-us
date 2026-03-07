@@ -1,14 +1,10 @@
-# Unity game made for ITEC 2024
+# 🎮 Unity game made for ITEC 2024
 
-## Hackathon hosted in partnership with Faculty of Automation and Computing and Politehnica University of Timișoara
+## 🧑🏻‍💻 Hackathon hosted in partnership with Faculty of Automation and Computing and Politehnica University of Timișoara
 
-## Ranked 3rd place
+## 🏆 Ranked 3rd place
 
-### 3D models used:
-
-### 🎨 Assets Credits
-
-#### This project uses the following 3D models from Sketchfab:
+### 🎨 Assets Credits (from sketchfab)
 
 - [Flourbag](https://skfb.ly/6XvrX) by Thunder
 - [Egg box](https://skfb.ly/6WMqA) by Antoine Dresen
